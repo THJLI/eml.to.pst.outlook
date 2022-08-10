@@ -2,6 +2,8 @@
 
 This is easy code for convert .eml to .pst, I share this here because I don't found one free application for convert, very thanks the Aspose for help us, below has the code you need change only variable "dirPath" is should be root path (where has subpaths) or path only should be have the .eml files.
 
+In VSCODE or Visual Studio create console project dotner core 6 - C#.
+
 ```
 using Aspose.Email;
 using Aspose.Email.Mapi;
