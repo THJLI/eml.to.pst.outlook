@@ -1,4 +1,4 @@
-# Convert Eml to Pst Outlook - Aspose Email
+# Convert .eml to .pst Outlook - Aspose Email
 
 This is easy code for convert .eml to .pst, I share this here because I don't found one free application for convert, very thanks the Aspose for help us, below has the code you need change only variable "dirPath" is should be root path (where has subpaths) or path only should be have the .eml files.
 
