@@ -51,3 +51,11 @@ After executed this code, one file the "outputFile.pst" are will create in the r
 
 Note: If you has sub-paths in the root, in the pst will create path too.
 
+
+References:
+
+https://docs.aspose.com/email/net/create-new-pst-add-sub-folders-and-messages/
+
+
+
+
